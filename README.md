@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Igor4Er</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Schoolboy developer from Ukraine</h3>
+
+- 🔭 I’m currently working on [screenstalk](https://github.com/Igor4er/screenstalk)
+
+- 🌱 I’m currently learning **Rust**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Igor4er/](https://github.com/Igor4er/)
+
+- 📝 I regularly write articles on [https://blog.ig4er.link/](https://blog.ig4er.link/)
+
+- 📫 How to reach me **sheredniehnko.ihor@gmail.com**
+
+- ⚡ Fun fact **I think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
