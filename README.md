@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igor4er&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="igor4er" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igor4er&theme=dark" alt="igor4er" /></a> </p>
-
 - 🔭 I’m currently working on [screenstalk](https://github.com/Igor4er/screenstalk)
 
 - 🌱 I’m currently learning **Rust**
