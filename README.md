@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://blog.ig4er.link/](https://blog.ig4er.link/)
 
-- 📫 How to reach me **sheredniehnko.ihor@gmail.com**
-
 - ⚡ Fun fact **I think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
