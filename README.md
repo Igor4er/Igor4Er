@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Igor4Er</h1>
-<h3 align="center">Schoolboy developer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Ihor Cherednichenko</h1>
+<!-- <h3 align="center">developer from Ukraine</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igor4er&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="igor4er" /> </p>
 
